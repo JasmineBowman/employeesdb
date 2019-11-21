@@ -1,0 +1,6 @@
+{
+  id: department_id,
+  dept_name: department.dept_name,
+  dept_manager: department.dept_manager,
+  dept_code: department.dept_code
+}
